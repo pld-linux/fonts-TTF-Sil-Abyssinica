@@ -1,5 +1,5 @@
 Summary:	Free TrueType font for the scripts used by many languages of Ethiopia and Eritrea
-Summary(pl.UTF-8):	Wolnodostępny font TrueType pisma uywanego przez języki Etiopii i Erytrei
+Summary(pl.UTF-8):	Wolnodostępny font TrueType pisma używanego przez języki Etiopii i Erytrei
 Name:		fonts-TTF-Sil-Abyssinica
 Version:	1.0
 Release:	1
